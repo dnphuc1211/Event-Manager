@@ -1,16 +1,26 @@
-# event_manager
+# Event-Manager
+Bài tập thực hành tạo ứng dụng Quản Lý Sự Kiện bằng Flutter
 
-A new Flutter project.
+##Tài liệu & nguồn tham khảo:
 
-## Getting Started
+1.Nguồn Tham khảo chính
 
-This project is a starting point for a Flutter application.
+Clip tham khảo (Flutter): Video hướng dẫn xây dựng ứng dụng quản lý sự kiện bằng Flutter của RBC Tech Vietnam.
 
-A few resources to get you started if this is your first Flutter project:
+Link: https://youtu.be/_qlCQVKW2jQ
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2.Công nghệ & Thư viện (cho phiên bản Flutter)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dựa trên các file mã nguồn .dart (như event_view.dart, event_service.dart, v.v.):
+
+Flutter: Framework chính để xây dựng ứng dụng.
+
+syncfusion_flutter_calendar: Thư viện (package) để hiển thị và tương tác với giao diện lịch.
+
+localstore: Thư viện (package) để lưu trữ dữ liệu sự kiện (dưới dạng NoSQL) trực tiếp trên thiết bị.
+
+flutter_localizations & intl: Các gói (package) được sử dụng để hỗ trợ đa ngôn ngữ (tiếng Anh và tiếng Việt).
+
+3.Trợ lý ảo giải đáp khái niệm, các thắc mắc nhanh
+
+Gemini
